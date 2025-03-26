@@ -154,3 +154,5 @@ networks:
   ssrf_proxy_network:
     driver: bridge
     internal: true
+  default:
+    driver: bridge
